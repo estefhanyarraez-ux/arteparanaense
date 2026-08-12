@@ -1,12 +1,48 @@
-body{
-    background-color:rgb(185, 138, 223) ;
+ody{
+    background-color: rgb(124, 221, 161);
+    color:#222222;
+    font-family: Arial, sans-serif;
 }
 header{
-    background-color: rgb(235, 153, 167) ;
-}
-main{
-    background-color: rgb(209, 126, 209);
-}
-section{
-    background-color: rgb(246, 252, 161);
-}
+    background-color:rgb(19, 136, 138) ;
+    color :white;
+    text-align; center;
+    padding: 30px;
+ }
+  background-color: rgb(124, 158, 209);
+ }
+ 
+    background-color: rgb(15, 221, 43) ;
+    h1{
+      font-size: 36px;
+    }
+    h2 {
+      color:#cc8fbd;
+    }
+    p{
+      font-size: 18px;
+      line-height: 1.6;
+ }
+    main{
+        width:80%;
+        margin:auto;
+    }
+    section{
+        background-color:rgb(221, 108, 197);
+        margin:20px 0;
+        padding:20px;
+        border-radius:12px;
+    }
+    img{
+        width:100%;
+        max-width:600px;
+        display:block;
+        margin:auto;
+       border-radius:12px;
+    }
+    figcaption{
+        text-align: center;
+        font-size: 14px;
+        color: #555555;
+        margin-top: 8px;
+    }
