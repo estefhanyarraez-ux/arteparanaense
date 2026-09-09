@@ -1,4 +1,4 @@
-const botao=document.querySelector("#botaoMenagem");
+const botao=document.querySelector("#botaoMensagem");
 const mensagem =document.querySelector("#mensagemInterativa");
 botao.addEventListener("click",mostrarMensagem);
 function mostrarMensagem(){
