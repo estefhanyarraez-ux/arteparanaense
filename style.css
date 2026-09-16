@@ -71,10 +71,10 @@ figcaption {
 }
 
 .card {
-    background-color: #7ae3eb;
+    background-color: #f3cedd;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #79beda;
+    border-left: 6px solid #ad1da6;
     border-radius: 10px;
 }
 nst botao = document.querySelector("#botaoMensagem");
@@ -90,7 +90,7 @@ function mostrarMensagem(){
 }
 
 footer {
-    background-color: #61e0e9;
+    background-color: #222222;
     color: white;
     text-align: center;
     padding: 20px;
