@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(92, 121, 219);
+    background-color: rgb(92, 219, 109);
     color: #222222;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #7dc0ff;
+    background-color: #92bae0;
 }
 
 main {
