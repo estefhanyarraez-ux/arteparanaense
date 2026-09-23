@@ -100,8 +100,8 @@ button{
     background-color: aqua;
     color:white
     border:none;
-    padding:10px 15px;
-    border-radius:8px;
+    padding: 10px 15px;
+    border-radius: 8px;
 cursor: pointer;
 }
 button hover{
