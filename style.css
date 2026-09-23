@@ -32,7 +32,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    background-color:#9b4d83;
+    background-color: #9b4d83;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -77,12 +77,13 @@ figcaption {
     border-left: 6px solid #6b2d5c;
     border-radius: 10px;
 }
-nst botao = document.querySelector("#botaoMensagem");
-const mensagem = document.querySelector("#mensagemInterativa");
-botao.addEventListener("click",mostrarMensagem);
-function mostrarMensagem(){
-    mensagem.textContent =
-    "você acabou de criar uma interação com JavaScript"
+
+nst botao=document.querySelector("#botaoMensagem");
+const mensagem=document.querySelector("#mensagemInterativa");
+botao.addEventListener("click", mostrarMensagem);
+
+function mostrarMensagem() {
+    mensagem.textContent="você acabou de criar uma interação com JavaScript"
 }
 
 .card h3 {
@@ -96,20 +97,22 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
-button{
-    background-color: rgb(73, 214, 155)
-    color:white;
-    border:none;
+
+button {
+    background-color: rgb(73, 214, 155) color: white;
+    border: none;
     padding: 10px 15px;
     border-radius: 8px;
-cursor: pointer;
+    cursor: pointer;
 }
-button hover{
+
+button hover {
     background-color: rgb(73, 214, 155);
 }
-.curtir{
-    display:block;
+
+.curtir {
+    display: block;
     width: fit-content;
     margin: 20px auto;
-    
+
 }
