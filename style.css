@@ -2,13 +2,13 @@
 --cor-fundo:rgb(124,221,161);
 --cor-texto:#222222;
 --cor-principal:rgb(19,136,138);
---cor-secundaria:rgb()
+--cor-secundaria: yellow;
 --cor-hover:blue;
 --cor-superficie: pink; 
 --cor-card:white;
---cor-legenda:rgb() 
+--cor-legenda:red ;
 --cor-clara: white; 
---cor-rodape:rgb()
+--cor-rodape:green;
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
