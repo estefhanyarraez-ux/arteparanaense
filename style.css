@@ -9,6 +9,7 @@
 --cor-legenda:rgb(131, 170, 206) ;
 --cor-clara: white; 
 --cor-rodape:rgb(198, 133, 218);
+}
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
@@ -110,7 +111,7 @@ button {
     cursor: pointer;
 }
 
-button hover {
+button:hover {
     background-color: var(--cor-houver);
 }
 
