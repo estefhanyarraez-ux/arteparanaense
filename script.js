@@ -14,3 +14,4 @@ botoesCurtir.forEach(function(botaoCurtir) {
 }
     
 });
+const btnTema=document.querySelector(".btn-tema");
