@@ -1,4 +1,4 @@
-conts botoesCurtir= document.querySelectorAll(".curtir");
+const botoesCurtir= document.querySelectorAll(".curtir");
 botoesCurtir.forEach(function(botaoCurtir) {
     let curtiu=false;
     botaoCurtir.addEventListener("click",curtir);
